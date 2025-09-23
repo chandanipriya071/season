@@ -1,0 +1,23 @@
+
+import java.util.Scanner;
+
+public class season {
+
+    public static void main(String[] df) {
+        int i;
+        Scanner s1 = new Scanner(System.in);
+        i = s1.nextInt();
+
+        if (i == 1) {
+            System.out.println("spring season");
+        } else if (i == 2) {
+            System.out.println("summer season");
+        } else if (i == 3) {
+            System.out.println("fall season");
+        } else if (i == 4) {
+            System.out.println("winter season");
+        } else {
+            System.out.println("invalid input");
+        }
+    }
+}
