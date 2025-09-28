@@ -6,7 +6,7 @@ public class season {
     public static void main(String[] df) {
         int i;
         Scanner s1 = new Scanner(System.in);
-        i = s1.nextInt()  ;
+        i = s1.nextInt();
 
         if (i == 1) {
             System.out.println("spring season");
