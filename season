@@ -1,12 +1,4 @@
 
-
-
-
-egg b 
-
-
-
-
 import java.util.Scanner;
 
 public class season {
